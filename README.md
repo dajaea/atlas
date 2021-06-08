@@ -1,4 +1,6 @@
-The question: what do speakers of English and of Chinese write about and find interesting?
+The Question:
+
+What do speakers of English and of Chinese write about and find interesting?
 Secondarily, what patterns can be seen in the structure of this knowledge base? 
 
 Data Sources:
@@ -28,5 +30,7 @@ Independent analysis - On corpora generated from each version's unique level 1 a
 A simple interactive space, which also includes some interpretations and takeaways was created using Google Sites, and can be found at https://sites.google.com/view/atlas-of-articles.
 
 Related projects of others:
+
 (a flip on the question) https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_articles_written_in_the_greatest_number_of_languages
+
 (the traffic approach) https://stackoverflow.com/questions/5323589/how-to-use-wikipedia-api-to-get-the-page-view-statistics-of-a-particular-page-in
